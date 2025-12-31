@@ -53,3 +53,6 @@ python train_vit_lab.py
 python few_shot_finetune.py
 python tent_adaptation.py
 python final_evaluation.py
+
+## 📦 Full dataset available here (academic use only):  
+https://drive.google.com/drive/folders/1L4_btGLgu6rpKcVIYCA5zTHYkZjHvHOa?usp=drive_link
